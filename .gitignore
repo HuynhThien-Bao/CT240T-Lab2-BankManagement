@@ -1,0 +1,23 @@
+# Tệp biên dịch Java
+*.class
+*.jar
+*.war
+
+# Thư mục đầu ra (Maven / IDE)
+target/
+out/
+bin/
+build/
+
+# Cấu hình IDE (IntelliJ / Eclipse / VS Code)
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+.vscode/
+
+# Tệp hệ điều hành
+.DS_Store
+Thumbs.db
+desktop.ini

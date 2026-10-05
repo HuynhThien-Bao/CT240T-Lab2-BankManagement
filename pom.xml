@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.ct240</groupId>
+    <artifactId>bank-management</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <name>CT240T-Lab2-BankManagement</name>
+
+    <properties>
+        <!-- Biên dịch ra bytecode Java 21 theo yêu cầu bài thực hành.
+             Máy cài JDK mới hơn (ví dụ JDK 27) vẫn build được nhờ cờ release. -->
+        <maven.compiler.release>21</maven.compiler.release>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+</project>
